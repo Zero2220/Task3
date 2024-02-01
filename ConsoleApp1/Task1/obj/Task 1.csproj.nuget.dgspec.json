@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\Desktop\\Project\\ConsoleApp1\\Task 3\\Task 3.csproj": {}
+    "C:\\Users\\Asus\\Desktop\\Project\\ConsoleApp1\\ConsoleApp1\\Task 1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\Desktop\\Project\\ConsoleApp1\\Task 3\\Task 3.csproj": {
+    "C:\\Users\\Asus\\Desktop\\Project\\ConsoleApp1\\ConsoleApp1\\Task 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Project\\ConsoleApp1\\Task 3\\Task 3.csproj",
-        "projectName": "Task 3",
-        "projectPath": "C:\\Users\\Asus\\Desktop\\Project\\ConsoleApp1\\Task 3\\Task 3.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Project\\ConsoleApp1\\ConsoleApp1\\Task 1.csproj",
+        "projectName": "Task 1",
+        "projectPath": "C:\\Users\\Asus\\Desktop\\Project\\ConsoleApp1\\ConsoleApp1\\Task 1.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\Desktop\\Project\\ConsoleApp1\\Task 3\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\Desktop\\Project\\ConsoleApp1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
